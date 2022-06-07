@@ -1,3 +1,7 @@
 # fc3-grpc
 
- gRPC usage with Golang
+ Small app for gRPC usage with Golang:  
+ Simple request
+ Server Stream    
+ Client Stream  
+ Bi-directional Stream
